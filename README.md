@@ -2,7 +2,7 @@
 
 A portable, zero-dependency task killer for Windows and WinPE. Built in pure Win32 C, statically linked, runs from anywhere - USB stick, WinPE recovery, or a full Windows 11 install.
 
-When Task Manager fails because the system is under heavy load, gKill still works. It uses a 5-method kill chain that escalates until the target process is dead.
+A real alternative to Windows Task Manager that often fails when the system is under heavy load, in those scenarios gKill will still work. It uses a 5-method kill chain that escalates until the target process is dead.
 
 ![gKill main view](screenshots/gkill.png)
 
