@@ -1,4 +1,4 @@
-# gKill - Aggressive Task Killer
+# gKill - Process Termination Without Negotiation
 
 A portable, zero-dependency task killer for Windows and WinPE. Built in pure Win32 C, statically linked, runs from anywhere - USB stick, WinPE recovery, or a full Windows 11 install.
 
