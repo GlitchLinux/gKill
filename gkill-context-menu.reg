@@ -9,10 +9,3 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\exefile\shell\gKill\command]
 @="\"C:\\Windows\\System32\\gkill.exe\" \"%1\""
-
-[HKEY_CLASSES_ROOT\Application\shell\gKill]
-@="gKill this process"
-"Icon"="C:\\Windows\\System32\\gkill.exe"
-
-[HKEY_CLASSES_ROOT\Application\shell\gKill\command]
-@="\"C:\\Windows\\System32\\gkill.exe\" \"%1\""
