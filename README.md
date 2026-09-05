@@ -8,7 +8,7 @@ When Task Manager fails because the system is under heavy load, gKill still work
 
 ## Download
 
-**[gkill.exe](https://glitchlinux.wtf/FILES/GLITCH-SOFTWARE/GKILL-TaskManager/gkill.exe)** (539 KB, standalone, no installer needed)
+**[gkill.exe](https://github.com/GlitchLinux/gKill/releases/download/v1.0/gkill.exe)** (539 KB, standalone, no installer needed)
 
 ## Features
 
