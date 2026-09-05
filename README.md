@@ -130,6 +130,12 @@ Icons must be in an `icons/` directory relative to `resources.rc`.
 
 ## Context Menu Integration
 
+Right-click any .exe file in Explorer to kill all running instances of that process.
+
+![Context menu](screenshots/context-menu.png)
+
+![Context menu demo](screenshots/context-menu-demo.gif)
+
 To add "gKill this process" to the right-click menu for .exe files:
 
 1. Copy `gkill.exe` to `C:\Windows\System32\`
