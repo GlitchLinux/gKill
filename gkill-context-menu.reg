@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+; gKill - Right-click context menu for .exe files in Explorer
+; Prerequisite: copy gkill.exe to C:\Windows\System32\
+
+[HKEY_CLASSES_ROOT\exefile\shell\gKill]
+@="gKill this process"
+"Icon"="C:\\Windows\\System32\\gkill.exe"
+
+[HKEY_CLASSES_ROOT\exefile\shell\gKill\command]
+@="\"C:\\Windows\\System32\\gkill.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Application\shell\gKill]
+@="gKill this process"
+"Icon"="C:\\Windows\\System32\\gkill.exe"
+
+[HKEY_CLASSES_ROOT\Application\shell\gKill\command]
+@="\"C:\\Windows\\System32\\gkill.exe\" \"%1\""

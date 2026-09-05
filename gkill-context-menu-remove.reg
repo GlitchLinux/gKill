@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Remove gKill context menu entries
+
+[-HKEY_CLASSES_ROOT\exefile\shell\gKill]
+[-HKEY_CLASSES_ROOT\Application\shell\gKill]

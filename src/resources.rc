@@ -1,0 +1,21 @@
+#include <winuser.h>
+
+/* App icon */
+1 ICON "icons/gkill.ico"
+
+/* UI icons */
+100 ICON "icons/find.ico"
+101 ICON "icons/refresh.ico"
+102 ICON "icons/minimize-2-taskbar.ico"
+103 ICON "icons/minimize-2-tray.ico"
+104 ICON "icons/exit.ico"
+105 ICON "icons/cpu.ico"
+106 ICON "icons/ram.ico"
+107 ICON "icons/active-tasks.ico"
+108 ICON "icons/up-arrow.ico"
+109 ICON "icons/down-arrow.ico"
+110 ICON "icons/kill-button.ico"
+111 ICON "icons/kill-button-grey.ico"
+
+/* Admin manifest */
+1 24 "gkill.manifest"
